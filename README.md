@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou Lucas Mendes 👋
 
-<!--
-**lucasmendess-dev/lucasmendess-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, desenvolvedor em formação e apaixonado por tecnologia.
 
-Here are some ideas to get you started:
+Tenho experiência profissional com **Design Gráfico**, o que me proporciona uma visão diferenciada sobre interfaces, organização visual, usabilidade e experiência do usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente desenvolvo projetos utilizando principalmente:
+
+### 💻 Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,html,css" />
+</p>
+
+* **C#**
+* **.NET**
+* **ASP.NET Core**
+* **PHP**
+* **HTML & CSS**
+
+### 🚀 Sobre mim
+
+Atualmente estou focado no desenvolvimento de aplicações **Web e Desktop**, colocando meus conhecimentos em prática através de projetos e buscando evoluir constantemente como desenvolvedor.
+
+Minha experiência com design também me ajuda a pensar além do código, buscando criar aplicações funcionais, intuitivas e visualmente bem estruturadas.
+
+###
