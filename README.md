@@ -12,11 +12,6 @@ Atualmente desenvolvo projetos utilizando principalmente:
   <img src="https://skillicons.dev/icons?i=cs,dotnet,php,html,css" />
 </p>
 
-* **C#**
-* **.NET**
-* **ASP.NET Core**
-* **PHP**
-* **HTML & CSS**
 
 ### 🚀 Sobre mim
 
