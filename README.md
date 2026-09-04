@@ -1,4 +1,4 @@
-# Olá, eu sou Lucas Mendes 👋
+# Olá, eu sou Lucas Mendes
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, desenvolvedor em formação e apaixonado por tecnologia.
 
@@ -13,7 +13,7 @@ Atualmente desenvolvo projetos utilizando principalmente:
 </p>
 
 
-### 🚀 Sobre mim
+### Sobre mim
 
 Atualmente estou focado no desenvolvimento de aplicações **Web e Desktop**, colocando meus conhecimentos em prática através de projetos e buscando evoluir constantemente como desenvolvedor.
 
