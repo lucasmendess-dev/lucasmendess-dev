@@ -6,7 +6,7 @@ Tenho experiência profissional com **Design Gráfico**, o que me proporciona um
 
 Atualmente desenvolvo projetos utilizando principalmente:
 
-### 💻 Tecnologias
+### Tecnologias
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,php,html,css" />
