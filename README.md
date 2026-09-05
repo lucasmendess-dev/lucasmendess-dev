@@ -2,7 +2,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, desenvolvedor em formação e apaixonado por tecnologia.
 
-Tenho experiência profissional com **Design Gráfico**, o que me proporciona uma visão diferenciada sobre interfaces, organização visual, usabilidade e experiência do usuário.
+Tenho background em **Design Gráfico**, o que me proporciona uma visão diferenciada sobre interfaces, organização visual, usabilidade e experiência do usuário.
 
 Atualmente desenvolvo projetos utilizando principalmente:
 
