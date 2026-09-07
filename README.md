@@ -15,7 +15,7 @@ Atualmente desenvolvo projetos utilizando principalmente:
 
 ### Sobre mim
 
-Atualmente estou focado no desenvolvimento de aplicações **Web e Desktop**, colocando meus conhecimentos em prática através de projetos e buscando evoluir constantemente como desenvolvedor.
+Atualmente estou focado no desenvolvimento de aplicações **Web e Desktop**, colocando meus estudo em prática através de projetos e buscando evoluir constantemente como desenvolvedor.
 
 Minha experiência com design também me ajuda a pensar além do código, buscando criar aplicações funcionais, intuitivas e visualmente bem estruturadas.
 
