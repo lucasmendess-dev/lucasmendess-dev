@@ -4,9 +4,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, desenvolvedor em fo
 
 Tenho background em **Design Gráfico**, o que me proporciona uma visão diferenciada sobre interfaces, organização visual, usabilidade e experiência do usuário.
 
-Atualmente desenvolvo projetos utilizando principalmente as ### Tecnologias:
-
-### Tecnologias
+Atualmente desenvolvo projetos utilizando principalmente as Tecnologias:
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,php,html,css" />
